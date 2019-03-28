@@ -4,4 +4,3 @@ version=v2.8
 versionCode=9
 author=CubeSky
 description=A Module to insert miui prop to system. 
-minMagisk=17000
